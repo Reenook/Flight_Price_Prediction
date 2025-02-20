@@ -12,7 +12,7 @@ This project implements a **Flight Price Prediction** model using machine learni
 ```bash
 # Clone the repository
 git clone https://github.com/your-repo/Flight_Price_Prediction.git
-cd House_Price_Prediction
+cd Flight_Price_Prediction
 
 
 ```
